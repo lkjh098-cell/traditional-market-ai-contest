@@ -1,0 +1,70 @@
+{
+  "method": "built-in image_gen.imagegen, one separate generation per menu; WebP encoding only after generation",
+  "createdAt": "2026-10-05",
+  "illustrative": true,
+  "assets": [
+    {
+      "id": "tofu-pot",
+      "prompt": "Use case: photorealistic-natural. Asset type: distinct menu photograph for a fictional Korean market meal-kit website. Subject: Korean mushroom tofu hotpot, blocks of white tofu, abundant shiitake and oyster mushrooms, napa cabbage, chopped green onion, clear vegetable broth. A shallow matte dark green ceramic pot. Uniform editorial food photography series on warm cream linen table, soft natural daylight from upper left, subtle fresh green onion leaves at background edge. Three-quarter overhead view, appetizing honest cooked textures, single centered dish fills about 80 percent of image. Landscape 3:2 image. No people, no hands, no text, no logos, no watermark, no collage, no split screen. Do not add prominent ingredients not listed in subject. This image depicts an illustrative prepared meal, not packaging.",
+      "path": "/images/recipes/tofu-pot.webp",
+      "sourceFile": "exec-77d35ccc-567d-4e4c-a404-4f3ed4098999.png",
+      "inspection": "Visually inspected: correct dish, consistent cream/green photography, no text or logo."
+    },
+    {
+      "id": "sea-pot",
+      "prompt": "Use case: photorealistic-natural. Asset type: distinct menu photograph for a fictional Korean market meal-kit website. Subject: Korean clear seafood hotpot, peeled cooked shrimp and squid rings with napa cabbage and chopped green onion in clear vegetable broth. A shallow matte dark green ceramic pot. No fish, no shellfish shells, no tofu. Uniform editorial food photography series on warm cream linen table, soft natural daylight from upper left, subtle fresh green onion leaves at background edge. Three-quarter overhead view, appetizing honest cooked textures, single centered dish fills about 80 percent of image. Landscape 3:2 image. No people, no hands, no text, no logos, no watermark, no collage, no split screen. Do not add prominent ingredients not listed in subject. This image depicts an illustrative prepared meal, not packaging.",
+      "path": "/images/recipes/sea-pot.webp",
+      "sourceFile": "exec-8e5e53f4-886c-4262-a04b-5866d008001c.png",
+      "inspection": "Visually inspected: correct dish, consistent cream/green photography, no text or logo."
+    },
+    {
+      "id": "shrimp-pan",
+      "prompt": "Use case: photorealistic-natural. Asset type: distinct menu photograph for a fictional Korean market meal-kit website. Subject: Korean mild shrimp and mushroom stir fry, peeled cooked pink shrimp and shiitake and oyster mushrooms with chopped green onion and a light brown soy glaze. A cream ceramic plate. No rice, no noodles, no peppers. Uniform editorial food photography series on warm cream linen table, soft natural daylight from upper left, subtle fresh green onion leaves at background edge. Three-quarter overhead view, appetizing honest cooked textures, single centered dish fills about 80 percent of image. Landscape 3:2 image. No people, no hands, no text, no logos, no watermark, no collage, no split screen. Do not add prominent ingredients not listed in subject. This image depicts an illustrative prepared meal, not packaging.",
+      "path": "/images/recipes/shrimp-pan.webp",
+      "sourceFile": "exec-08eef97e-59e7-47c2-b3a0-ec4aefc3680a.png",
+      "inspection": "Visually inspected: correct dish, consistent cream/green photography, no text or logo."
+    },
+    {
+      "id": "beef-pot",
+      "prompt": "Use case: photorealistic-natural. Asset type: distinct menu photograph for a fictional Korean market meal-kit website. Subject: Korean beef shabu vegetable hotpot, very thin cooked beef slices, napa cabbage, shiitake and oyster mushrooms, green onion, clear vegetable broth. A shallow matte dark green ceramic pot. No noodles, no seafood. Uniform editorial food photography series on warm cream linen table, soft natural daylight from upper left, subtle fresh green onion leaves at background edge. Three-quarter overhead view, appetizing honest cooked textures, single centered dish fills about 80 percent of image. Landscape 3:2 image. No people, no hands, no text, no logos, no watermark, no collage, no split screen. Do not add prominent ingredients not listed in subject. This image depicts an illustrative prepared meal, not packaging.",
+      "path": "/images/recipes/beef-pot.webp",
+      "sourceFile": "exec-76b50843-0ee7-47bd-b47c-5087a77e30fb.png",
+      "inspection": "Visually inspected: correct dish, consistent cream/green photography, no text or logo."
+    },
+    {
+      "id": "fish-radish",
+      "prompt": "Use case: photorealistic-natural. Asset type: distinct menu photograph for a fictional Korean market meal-kit website. Subject: Korean mild soy-braised white fish fillet with thick white radish rounds and green onion, a little glossy brown sauce. A shallow cream ceramic bowl. No red chili sauce, no other vegetables, no rice. Uniform editorial food photography series on warm cream linen table, soft natural daylight from upper left, subtle fresh green onion leaves at background edge. Three-quarter overhead view, appetizing honest cooked textures, single centered dish fills about 80 percent of image. Landscape 3:2 image. No people, no hands, no text, no logos, no watermark, no collage, no split screen. Do not add prominent ingredients not listed in subject. This image depicts an illustrative prepared meal, not packaging.",
+      "path": "/images/recipes/fish-radish.webp",
+      "sourceFile": "exec-18cd8416-4c89-41a0-b171-13c778b9baad.png",
+      "inspection": "Visually inspected: correct dish, consistent cream/green photography, no text or logo."
+    },
+    {
+      "id": "squid-pan",
+      "prompt": "Use case: photorealistic-natural. Asset type: distinct menu photograph for a fictional Korean market meal-kit website. Subject: Korean mild squid vegetable stir fry, tender ivory squid rings and pieces, napa cabbage, orange carrot slices, chopped green onion in light soy glaze. A cream ceramic plate. No red chili sauce, no shrimp, no mushrooms. Uniform editorial food photography series on warm cream linen table, soft natural daylight from upper left, subtle fresh green onion leaves at background edge. Three-quarter overhead view, appetizing honest cooked textures, single centered dish fills about 80 percent of image. Landscape 3:2 image. No people, no hands, no text, no logos, no watermark, no collage, no split screen. Do not add prominent ingredients not listed in subject. This image depicts an illustrative prepared meal, not packaging.",
+      "path": "/images/recipes/squid-pan.webp",
+      "sourceFile": "exec-f439ffe7-e198-4e9a-9f3c-6e1735f0cf96.png",
+      "inspection": "Visually inspected: correct dish, consistent cream/green photography, no text or logo."
+    },
+    {
+      "id": "chicken-pan",
+      "prompt": "Use case: photorealistic-natural. Asset type: distinct menu photograph for a fictional Korean market meal-kit website. Subject: Korean chicken mushroom stir fry, bite size cooked chicken pieces, shiitake and oyster mushrooms, orange carrot slices and green onion in a light brown soy glaze. A cream ceramic plate. No rice, no noodles. Uniform editorial food photography series on warm cream linen table, soft natural daylight from upper left, subtle fresh green onion leaves at background edge. Three-quarter overhead view, appetizing honest cooked textures, single centered dish fills about 80 percent of image. Landscape 3:2 image. No people, no hands, no text, no logos, no watermark, no collage, no split screen. Do not add prominent ingredients not listed in subject. This image depicts an illustrative prepared meal, not packaging.",
+      "path": "/images/recipes/chicken-pan.webp",
+      "sourceFile": "exec-b4ec96cf-4822-47b4-b95e-a2a782fdae15.png",
+      "inspection": "Visually inspected: correct dish, consistent cream/green photography, no text or logo."
+    },
+    {
+      "id": "clam-soup",
+      "prompt": "Use case: photorealistic-natural. Asset type: distinct menu photograph for a fictional Korean market meal-kit website. Subject: Korean clear clam vegetable soup, small opened short neck clams in shells, white radish pieces, Korean zucchini half moons and chopped green onion in clear vegetable broth. A shallow matte dark green ceramic pot. No shrimp, no tofu. Uniform editorial food photography series on warm cream linen table, soft natural daylight from upper left, subtle fresh green onion leaves at background edge. Three-quarter overhead view, appetizing honest cooked textures, single centered dish fills about 80 percent of image. Landscape 3:2 image. No people, no hands, no text, no logos, no watermark, no collage, no split screen. Do not add prominent ingredients not listed in subject. This image depicts an illustrative prepared meal, not packaging.",
+      "path": "/images/recipes/clam-soup.webp",
+      "sourceFile": "exec-222dbdc8-e1bd-4196-91e2-3082fabf58ee.png",
+      "inspection": "Visually inspected: correct dish, consistent cream/green photography, no text or logo."
+    },
+    {
+      "id": "veggie-bowl",
+      "prompt": "Use case: photorealistic-natural. Asset type: distinct menu photograph for a fictional Korean market meal-kit website. Subject: Korean grilled tofu and vegetables platter, golden pan seared tofu rectangles, shiitake and oyster mushrooms, Korean zucchini slices and orange carrot slices, a little light brown soy sauce. A generous cream ceramic plate. No rice, no noodles, no meat, no shrimp. Uniform editorial food photography series on warm cream linen table, soft natural daylight from upper left, subtle fresh green onion leaves at background edge. Three-quarter overhead view, appetizing honest cooked textures, single centered dish fills about 80 percent of image. Landscape 3:2 image. No people, no hands, no text, no logos, no watermark, no collage, no split screen. Do not add prominent ingredients not listed in subject. This image depicts an illustrative prepared meal, not packaging.",
+      "path": "/images/recipes/veggie-bowl.webp",
+      "sourceFile": "exec-938c3121-03d4-4402-acfd-ada08f6a4b21.png",
+      "inspection": "Visually inspected: correct dish, consistent cream/green photography, no text or logo."
+    }
+  ]
+}
