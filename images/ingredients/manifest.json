@@ -1,0 +1,121 @@
+{
+  "tool": "Built-in image generation",
+  "purpose": "AI-generated demo ingredient photography; not actual shop inventory",
+  "images": [
+    {
+      "id": "tofu",
+      "file": "tofu.webp",
+      "prompt": "Use case: product-mockup. Create one square photorealistic ingredient catalog photo for a Korean fresh-food market website. Subject: fresh firm white tofu (두부), one intact rectangular block and a few thick clean slices, unseasoned, on a shallow ivory ceramic plate. Neutral warm ivory tabletop, soft natural daylight, refined approachable food photography, true texture, slight overhead angle, ingredient fills 70% of frame, clear edges, consistent premium grocery style. No cooked dish, no people, no hands, no labels, no text, no packaging, no logos or watermark."
+    },
+    {
+      "id": "mushroom",
+      "file": "mushroom.webp",
+      "prompt": "Use case: product-mockup. One square photorealistic individual ingredient catalog photograph for a Korean fresh-food market website. Warm ivory tabletop and shallow ivory ceramic plate or suitable bowl. Soft natural daylight, slightly overhead angle, ingredient fills 70% of frame, true food texture, premium grocery photography. No people, hands, text, labels, branded packaging, logos, watermarks, or cooked meal. Subject:  A fresh assortment of shiitake, oyster mushrooms and enoki mushrooms, natural cream and brown tones"
+    },
+    {
+      "id": "cabbage",
+      "file": "cabbage.webp",
+      "prompt": "Use case: product-mockup. One square photorealistic individual ingredient catalog photograph for a Korean fresh-food market website. Warm ivory tabletop and shallow ivory ceramic plate or suitable bowl. Soft natural daylight, slightly overhead angle, ingredient fills 70% of frame, true food texture, premium grocery photography. No people, hands, text, labels, branded packaging, logos, watermarks, or cooked meal. Subject:  Fresh baby napa cabbage, one small whole head and one lengthwise half with crisp yellow-green layers"
+    },
+    {
+      "id": "onion",
+      "file": "onion.webp",
+      "prompt": "Use case: product-mockup. One square photorealistic individual ingredient catalog photograph for a Korean fresh-food market website. Warm ivory tabletop and shallow ivory ceramic plate or suitable bowl. Soft natural daylight, slightly overhead angle, ingredient fills 70% of frame, true food texture, premium grocery photography. No people, hands, text, labels, branded packaging, logos, watermarks, or cooked meal. Subject:  Fresh Korean large green onions (daepa), long thick white stalks and dark green leaves, a neat small bunch; not bulb onions"
+    },
+    {
+      "id": "broth",
+      "file": "broth.webp",
+      "prompt": "Use case: product-mockup. One square photorealistic individual ingredient catalog photograph for a Korean fresh-food market website. Warm ivory tabletop and shallow ivory ceramic plate or suitable bowl. Soft natural daylight, slightly overhead angle, ingredient fills 70% of frame, true food texture, premium grocery photography. No people, hands, text, labels, branded packaging, logos, watermarks, or cooked meal. Subject:  Clear pale golden vegetable cooking stock in a small transparent glass pouring jug, with one matching clear glass vessel, no soup solids"
+    },
+    {
+      "id": "shrimp",
+      "file": "shrimp.webp",
+      "prompt": "Use case: product-mockup. One square photorealistic individual ingredient catalog photograph for a Korean fresh-food market website. Warm ivory tabletop and shallow ivory ceramic plate or suitable bowl. Soft natural daylight, slightly overhead angle, ingredient fills 70% of frame, true food texture, premium grocery photography. No people, hands, text, labels, branded packaging, logos, watermarks, or cooked meal. Subject:  Fresh raw peeled shrimp, translucent grey-pink, deveined and uncooked, arranged neatly"
+    },
+    {
+      "id": "fish",
+      "file": "fish.webp",
+      "prompt": "Use case: product-mockup. One square photorealistic individual ingredient catalog photograph for a Korean fresh-food market website. Warm ivory tabletop and shallow ivory ceramic plate or suitable bowl. Soft natural daylight, slightly overhead angle, ingredient fills 70% of frame, true food texture, premium grocery photography. No people, hands, text, labels, branded packaging, logos, watermarks, or cooked meal. Subject:  Raw fresh white fish boneless fillet portions, pristine pearly flesh, not cooked"
+    },
+    {
+      "id": "squid",
+      "file": "squid.webp",
+      "prompt": "Use case: product-mockup. One square photorealistic individual ingredient catalog photograph for a Korean fresh-food market website. Warm ivory tabletop and shallow ivory ceramic plate or suitable bowl. Soft natural daylight, slightly overhead angle, ingredient fills 70% of frame, true food texture, premium grocery photography. No people, hands, text, labels, branded packaging, logos, watermarks, or cooked meal. Subject:  Fresh cleaned raw squid: a white mantle, cut rings and a few tentacles arranged neatly"
+    },
+    {
+      "id": "sauce",
+      "file": "sauce.webp",
+      "prompt": "Use case: product-mockup. One square photorealistic individual ingredient catalog photograph for a Korean fresh-food market website. Warm ivory tabletop and shallow ivory ceramic plate or suitable bowl. Soft natural daylight, slightly overhead angle, ingredient fills 70% of frame, true food texture, premium grocery photography. No people, hands, text, labels, branded packaging, logos, watermarks, or cooked meal. Subject:  A smooth mild brown stir-fry sauce in a small ivory dipping bowl, one small pouring jug, no vegetables or cooked dish"
+    },
+    {
+      "id": "pepper",
+      "file": "pepper.webp",
+      "prompt": "Use case: product-mockup. One square photorealistic individual ingredient catalog photograph for a Korean fresh-food market website. Warm ivory tabletop and shallow ivory ceramic plate or suitable bowl. Soft natural daylight, slightly overhead angle, ingredient fills 70% of frame, true food texture, premium grocery photography. No people, hands, text, labels, branded packaging, logos, watermarks, or cooked meal. Subject:  Spicy deep red Korean chili seasoning paste in a small ivory dipping bowl"
+    },
+    {
+      "id": "beef",
+      "file": "beef.webp",
+      "prompt": "Use case: product-mockup. One square photorealistic individual ingredient catalog photograph for a Korean fresh-food market website. Warm ivory tabletop and shallow ivory ceramic plate or suitable bowl. Soft natural daylight, slightly overhead angle, ingredient fills 70% of frame, true food texture, premium grocery photography. No people, hands, text, labels, branded packaging, logos, watermarks, or cooked meal. Subject:  Raw paper-thin marbled beef slices for Korean shabu-shabu, loosely folded in neat layers"
+    },
+    {
+      "id": "chicken",
+      "file": "chicken.webp",
+      "prompt": "Use case: product-mockup. One square photorealistic individual ingredient catalog photograph for a Korean fresh-food market website. Warm ivory tabletop and shallow ivory ceramic plate or suitable bowl. Soft natural daylight, slightly overhead angle, ingredient fills 70% of frame, true food texture, premium grocery photography. No people, hands, text, labels, branded packaging, logos, watermarks, or cooked meal. Subject:  Fresh raw boneless skinless chicken thigh pieces, pale pink, neatly arranged"
+    },
+    {
+      "id": "radish",
+      "file": "radish.webp",
+      "prompt": "Use case: product-mockup. One square photorealistic individual ingredient catalog photograph for a Korean fresh-food market website. Warm ivory tabletop and shallow ivory ceramic plate or suitable bowl. Soft natural daylight, slightly overhead angle, ingredient fills 70% of frame, true food texture, premium grocery photography. No people, hands, text, labels, branded packaging, logos, watermarks, or cooked meal. Subject:  Peeled fresh Korean white radish, a thick cylindrical section and a few half-moon slices"
+    },
+    {
+      "id": "clam",
+      "file": "clam.webp",
+      "prompt": "Use case: product-mockup. One square photorealistic individual ingredient catalog photograph for a Korean fresh-food market website. Warm ivory tabletop and shallow ivory ceramic plate or suitable bowl. Soft natural daylight, slightly overhead angle, ingredient fills 70% of frame, true food texture, premium grocery photography. No people, hands, text, labels, branded packaging, logos, watermarks, or cooked meal. Subject:  Fresh raw Manila clams in their natural ridged brown-grey patterned shells, clean moist shells"
+    },
+    {
+      "id": "carrot",
+      "file": "carrot.webp",
+      "prompt": "Use case: product-mockup. One square photorealistic individual ingredient catalog photograph for a Korean fresh-food market website. Warm ivory tabletop and shallow ivory ceramic plate or suitable bowl. Soft natural daylight, slightly overhead angle, ingredient fills 70% of frame, true food texture, premium grocery photography. No people, hands, text, labels, branded packaging, logos, watermarks, or cooked meal. Subject:  Three fresh orange carrots, one cut diagonally to reveal a crisp orange centre"
+    },
+    {
+      "id": "zucchini",
+      "file": "zucchini.webp",
+      "prompt": "Use case: product-mockup. One square photorealistic individual ingredient catalog photograph for a Korean fresh-food market website. Warm ivory tabletop and shallow ivory ceramic plate or suitable bowl. Soft natural daylight, slightly overhead angle, ingredient fills 70% of frame, true food texture, premium grocery photography. No people, hands, text, labels, branded packaging, logos, watermarks, or cooked meal. Subject:  Fresh Korean aehobak light green zucchini, one intact short plump squash and a few thick round slices"
+    },
+    {
+      "id": "apple",
+      "file": "apple.webp",
+      "prompt": "Use case: product-mockup. One square photorealistic individual ingredient catalog photograph for a Korean fresh-food market website. Warm ivory tabletop and shallow ivory ceramic plate or suitable bowl. Soft natural daylight, slightly overhead angle, ingredient fills 70% of frame, true food texture, premium grocery photography. No people, hands, text, labels, branded packaging, logos, watermarks, or cooked meal. Subject:  Fresh bright red Korean apples, two whole apples and two crisp pale apple wedges"
+    },
+    {
+      "id": "mandarin",
+      "file": "mandarin.webp",
+      "prompt": "Use case: product-mockup. One square photorealistic individual ingredient catalog photograph for a Korean fresh-food market website. Warm ivory tabletop and shallow ivory ceramic plate or suitable bowl. Soft natural daylight, slightly overhead angle, ingredient fills 70% of frame, true food texture, premium grocery photography. No people, hands, text, labels, branded packaging, logos, watermarks, or cooked meal. Subject:  Fresh Korean mandarins, three small orange citrus fruits, one peeled segment cluster"
+    },
+    {
+      "id": "perilla",
+      "file": "perilla.webp",
+      "prompt": "Use case: product-mockup. One square photorealistic individual ingredient catalog photograph for a Korean fresh-food market website. Warm ivory tabletop and shallow ivory ceramic plate or suitable bowl. Soft natural daylight, slightly overhead angle, ingredient fills 70% of frame, true food texture, premium grocery photography. No people, hands, text, labels, branded packaging, logos, watermarks, or cooked meal. Subject:  Fresh Korean perilla leaves (kkaennip), broad heart-shaped green serrated leaves with prominent veins, small stack and two loose leaves, NOT mint or basil"
+    },
+    {
+      "id": "seaweed",
+      "file": "seaweed.webp",
+      "prompt": "Use case: product-mockup. One square photorealistic individual ingredient catalog photograph for a Korean fresh-food market website. Warm ivory tabletop and shallow ivory ceramic plate or suitable bowl. Soft natural daylight, slightly overhead angle, ingredient fills 70% of frame, true food texture, premium grocery photography. No people, hands, text, labels, branded packaging, logos, watermarks, or cooked meal. Subject:  Dried dark green Korean sea mustard (miyeok), neat loosely folded brittle dried strips, not fresh salad or kelp sheets"
+    },
+    {
+      "id": "pork",
+      "file": "pork.webp",
+      "prompt": "Use case: product-mockup. One square photorealistic individual ingredient catalog photograph for a Korean fresh-food market website. Warm ivory tabletop and shallow ivory ceramic plate or suitable bowl. Soft natural daylight, slightly overhead angle, ingredient fills 70% of frame, true food texture, premium grocery photography. No people, hands, text, labels, branded packaging, logos, watermarks, or cooked meal. Subject:  Fresh raw pork slices with lean pink meat and a moderate pale fat edge, neatly arranged, not cooked"
+    },
+    {
+      "id": "soft-tofu",
+      "file": "soft-tofu.webp",
+      "prompt": "Use case: product-mockup. One square photorealistic individual ingredient catalog photograph for a Korean fresh-food market website. Warm ivory tabletop and shallow ivory ceramic plate or suitable bowl. Soft natural daylight, slightly overhead angle, ingredient fills 70% of frame, true food texture, premium grocery photography. No people, hands, text, labels, branded packaging, logos, watermarks, or cooked meal. Subject:  Silken soft tofu, one smooth pale white rounded rectangular block with a spoon-sized portion separated, glossy delicate texture"
+    },
+    {
+      "id": "garlic",
+      "file": "garlic.webp",
+      "prompt": "Use case: product-mockup. One square photorealistic individual ingredient catalog photograph for a Korean fresh-food market website. Warm ivory tabletop and shallow ivory ceramic plate or suitable bowl. Soft natural daylight, slightly overhead angle, ingredient fills 70% of frame, true food texture, premium grocery photography. No people, hands, text, labels, branded packaging, logos, watermarks, or cooked meal. Subject:  Fresh finely minced pale ivory garlic in a small ivory ceramic bowl, two peeled garlic cloves alongside, not sauce"
+    }
+  ]
+}
